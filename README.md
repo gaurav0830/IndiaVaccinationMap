@@ -25,7 +25,7 @@ A **React-based interactive India vaccination map** that visualizes vaccination 
 
 ## Demo
 
-You can check the live demo here: [Add your live demo link if available]
+You can check the live demo here: [https://india-vaccination-map-dashboard.vercel.app/]
 ## Technologies Used
 
 - **React.js** - Frontend library  
