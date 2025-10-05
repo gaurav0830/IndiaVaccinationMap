@@ -40,7 +40,7 @@ You can check the live demo here: https://india-vaccination-map-dashboard.vercel
 1. Clone the repository:
 
 ```bash
-git clone [https://github.com/yourusername/india-vaccination-map.git](https://github.com/gaurav0830/IndiaVaccinationMap.git)
+git clone https://github.com/gaurav0830/IndiaVaccinationMap.git
 cd india-vaccination-map
 ```
 2. Install dependencies:
